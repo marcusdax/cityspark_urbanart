@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="all tests in cityspark_urbanart" type="FlutterTestConfigType" factoryName="Flutter Test" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <option name="testDir" value="C:\Users\mmmm\Documents\GitHub\cityspark_urbanart\test" />
+    <option name="useRegexp" value="false" />
+    <option name="additionalArgs" value="" />
+    <method v="2" />
+  </configuration>
+</component>
